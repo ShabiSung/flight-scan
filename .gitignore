@@ -1,0 +1,4 @@
+.env
+flight-scan-data/
+__pycache__/
+*.pyc
